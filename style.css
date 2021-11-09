@@ -1,0 +1,44 @@
+body {
+  background-image: url(sfondo.jpg);
+  background-size: cover;
+
+}
+.contenuto{
+  margin: 0 10% 0 10%;
+  background: rgba(0,0,0,0.35);
+  border-radius: 10px;
+}
+.titolo{
+  color: #3bcb3b;
+  text-align: center;
+  font-size: 40px;
+}
+.logo{
+  display: block;
+  margin: auto;
+  text-align: center;
+  width: 17%;
+  padding-top: 30px;
+}
+.tasti{
+  background-color: #3bcb3b;
+  text-align: center;
+  padding: 10px;
+  margin: 0 5% 0 5%;
+}
+.stato{
+  margin: 0 5% 0 5%;
+}
+.monopattino{
+  display: inline-block;
+  color: white;
+  font-family: cursive;
+}
+p{
+  font-size: 110%;
+  font-family: cursive;
+  color: white;
+}
+#gino{
+  background-color: orange;
+}
